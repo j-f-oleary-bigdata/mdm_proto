@@ -1,0 +1,2 @@
+entity_name
+mdm_customer_data
